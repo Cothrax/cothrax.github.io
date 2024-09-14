@@ -16,7 +16,7 @@ Publications
 =====
 (Authors are listed in alphabetical order unless specified otherwise.)
 
-- **Quantum Byzantine agreement against full-information adversary** <br>
+- **Quantum Byzantine agreement against full-information adversary** [[arXiv]](https://arxiv.org/abs/2409.01707) <br>
   Longcheng Li, Xiaoming Sun, Jiadong Zhu <br>
   *International Symposium on Distributed Computing (DISC)*, to appear, 2024
 - **How (not) to build QPKE in Minicrypt** [[arXiv]](https://arxiv.org/abs/2405.20295) <br>
@@ -37,6 +37,6 @@ Contest (ICPC)* back when I was an undergrad. We won
 My max Codeforces rating is <a style="text-decoration: none;" href="https://codeforces.com/profile/Cothrax"><span style="color: purple;">**2083**</span></a>.
 
 
-Others
+Misc
 =====
 I play piano. My (current) favorite composer is [Nikolai Kapustin](https://en.wikipedia.org/wiki/Nikolai_Kapustin).

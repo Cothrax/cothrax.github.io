@@ -16,10 +16,10 @@ Publications
 =====
 (Authors are listed in alphabetical order unless specified otherwise.)
 
-- **Quantum Byzantine agreement against full-information adversary** [[arXiv]](https://arxiv.org/abs/2409.01707) <br>
+- **Quantum Byzantine Agreement Against Full-information Adversary** [[arXiv]](https://arxiv.org/abs/2409.01707) <br>
   Longcheng Li, Xiaoming Sun, Jiadong Zhu <br>
   *International Symposium on Distributed Computing (DISC)*, to appear, 2024
-- **How (not) to build QPKE in Minicrypt** [[arXiv]](https://arxiv.org/abs/2405.20295) <br>
+- **How (not) to Build Quantum PKE in Minicrypt** [[arXiv]](https://arxiv.org/abs/2405.20295) <br>
   Longcheng Li, Qian Li, Xingjian Li, Qipeng Liu <br>
   *Annual International Cryptology Conference (CRYPTO)*, 2024
 - **Fast exact synthesis of two-qubit unitaries using a near-minimum number of T gates** [[DOI]](https://doi.org/10.1103/physreva.107.042424) <br>

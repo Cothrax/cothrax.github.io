@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! I am a third-year graduate student in computer science at [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/), supervised by [Xiaoming Sun](https://scholar.google.com/citations?user=WKpSlhQAAAAJ) and [Jialin Zhang](https://dblp.org/pid/91/2798-1.html). I have a broad interest in theoretical computer science and quantum computation. Recently, I am working on quantum cryptography and distributed quantum computing.
 
-<span style="color: red;">*News: I am looking for PhD positions starting from 25 Fall.*</span>
+<span style="color: red;">*News: I am looking for PhD positions starting in 25 Fall.*</span>
 
 Publications
 =====
 (Authors are listed in alphabetical order unless specified otherwise.)
 
-- **Quantum Byzantine Agreement Against Full-information Adversary** [[arXiv]](https://arxiv.org/abs/2409.01707) <br>
+- **Quantum Byzantine Agreement Against Full-Information Adversary** [[arXiv]](https://arxiv.org/abs/2409.01707) <br>
   Longcheng Li, Xiaoming Sun, Jiadong Zhu <br>
   *International Symposium on Distributed Computing (DISC)*, to appear, 2024
 - **How (not) to Build Quantum PKE in Minicrypt** [[arXiv]](https://arxiv.org/abs/2405.20295) <br>
